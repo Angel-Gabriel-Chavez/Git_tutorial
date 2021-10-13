@@ -1,1 +1,17 @@
 ________________________Los ficheros en la vida de un programador________________________
+
+Los ficheros son archivos que contienen información en forma de bytes. En este breve ensayo
+entenderas par qué sirven y cómo crearlos.
+
+Cuando estás leyendo un archivo de texto, en realidad ese es un fichero con estensión .txt
+lo que significa que almacena texto plano; pero no se puede almacenar como letras y números
+porque, en el fondo, los computadores funcionan leyendo 0s y 1s (bits de datos), cada grupo
+de 8 bits es un byte, o en otras palabras, algo que las computadoras pueden entender y guar
+dar.
+
+Los ficheros pueden tener muchas extensiones para ser abiertos por distintos programas, así
+como los ficheros.txt son abiertos por el bloc de notas, o los .py son abiertos por tu edi
+tor de código fávorito.
+
+Los ficheros son la vida de un programador y tendrás que aprender como los maneja cada len
+guaje. 
