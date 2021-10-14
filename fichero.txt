@@ -14,4 +14,4 @@ como los ficheros.txt son abiertos por el bloc de notas, o los .py son abiertos 
 tor de código fávorito.
 
 Los ficheros son la vida de un programador y tendrás que aprender como los maneja cada len
-guaje. 
+guaje..
