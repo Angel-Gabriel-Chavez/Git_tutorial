@@ -1,4 +1,8 @@
-from setuptools import setup
+from setuptools import find_packages, setup
 
 if __name__ == "__main__":
-    setup()
+    setup(setup_requires=['pytest-runner'],
+    tests_require=['pytest'],
+    python_requires=">=3.6",
+    test_suite='basstatpl/tests',
+    packages=find_packages())
